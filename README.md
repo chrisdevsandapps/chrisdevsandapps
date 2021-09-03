@@ -5,6 +5,7 @@
 
 Welcome to my github page !
 
+---
 
 ### note to tags on my projects:
 
@@ -14,6 +15,12 @@ css-html
 
 bootsrap
 
+
+---
+
+template for directory tree:
+
+https://gist.github.com/chrisdevsandapps/5be9b39d51c6afc6005ee1985d13262b
 
 
 ---
