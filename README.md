@@ -10,6 +10,8 @@ Welcome to my github page !
 
 https://www.rubycoloredglasses.com/2013/04/languages-supported-by-github-flavored-markdown/
 
+https://github.com/github/linguist/blob/master/lib/linguist/languages.yml
+
 
 ---
 
