@@ -1,10 +1,6 @@
 # hey hey hey !
 
 
-### wazzup !
-
-Welcome to my github page !
-
 
 ### github flavored markdown block language list: [&#8859;](https://www.rubycoloredglasses.com/2013/04/languages-supported-by-github-flavored-markdown/) [&#8859;](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)
 
@@ -36,6 +32,24 @@ Welcome to my github page !
 
 
 ---
+
+
+<br> <br>
+
+
+[js-algorithm](https://github.com/TheAlgorithms/Javascript)
+
+
+
+[coding-interview](https://github.com/jwasham/coding-interview-university)
+
+
+
+
+---
+
+
+<br> <br> <br>
 
 
 
