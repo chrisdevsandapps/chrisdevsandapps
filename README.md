@@ -10,7 +10,7 @@ github flavored markdown block language list: [&#8859;](https://www.rubycoloredg
 
 
 
-list to tags on my projects: [&#8859;](https://github.com/chrisdevsandapps/my-github-repository-tags)
+list to tags on my projects: [&#8859;&#8859;&#8859;](https://github.com/chrisdevsandapps/my-github-repository-tags)
 
 
 
@@ -53,6 +53,10 @@ background working musics: [&#8859;](https://gist.github.com/chrisdevsandapps/e7
 
 
 <br> <br> <br>
+
+
+
+[placeholder images](https://gist.github.com/chrisdevsandapps/e0482515c90d7b1bb1bc0d790bd3323f)
 
 
 
