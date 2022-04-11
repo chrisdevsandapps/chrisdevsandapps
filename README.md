@@ -1,5 +1,46 @@
 # hey hey hey !
 
+
+<!-- ############################################################################################### -->
+<!-- STATS -->
+
+<!-- https://github.com/rishisuresh7/github-readme-stats -->
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisdevsandapps&theme=radical) -->
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisdevsandapps&theme=dark) -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisdevsandapps&theme=merko&count_private=true&show_icons=true)
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisdevsandapps&theme=gruvbox) -->
+
+
+
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisdevsandapps&theme=tokyonight) -->
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisdevsandapps&theme=onedark) -->
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisdevsandapps&theme=cobalt) -->
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisdevsandapps&theme=synthwave) -->
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisdevsandapps&theme=highcontrast) -->
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisdevsandapps&theme=dracula) -->
+
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisdevsandapps&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!-- ############################################################################################### -->
+
+
+
+
 <br>
 
 github flavored markdown block language list: [&#8859;](https://www.rubycoloredglasses.com/2013/04/languages-supported-by-github-flavored-markdown/) [&#8859;](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)
