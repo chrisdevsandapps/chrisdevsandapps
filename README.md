@@ -75,6 +75,8 @@ background working musics: [&#8859;](https://gist.github.com/chrisdevsandapps/e7
 
 <br>
 
+[tmux](https://gist.github.com/chrisdevsandapps/0ccf87b09a66e15a428b1e4e3763388c)
+
 
 [js-algorithm](https://github.com/TheAlgorithms/Javascript)
 
