@@ -75,14 +75,25 @@ background working musics: [&#8859;](https://gist.github.com/chrisdevsandapps/e7
 
 <br>
 
+
+<!-- ############################################################################################### -->
+<!-- ############################################################################################### -->
+
+
+[neovim settings for macos](https://github.com/chrisdevsandapps/neovim-init-file-on-macos)
+
+
 [tmux](https://gist.github.com/chrisdevsandapps/0ccf87b09a66e15a428b1e4e3763388c)
 
 
 [js-algorithm](https://github.com/TheAlgorithms/Javascript)
 
 
-
 [coding-interview](https://github.com/jwasham/coding-interview-university)
+
+
+<!-- ############################################################################################### -->
+<!-- ############################################################################################### -->
 
 
 <br>
