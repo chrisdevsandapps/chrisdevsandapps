@@ -134,7 +134,15 @@ template for directory tree: [&#8859;](https://gist.github.com/chrisdevsandapps/
 <details>
 <summary>references</summary>
 
+<br>
+
 [simplified.guide](https://www.simplified.guide/)
+  
+<br>
+  
+[nietzche-ipzum](http://nietzsche-ipsum.com/)
+  
+<br>
 
 </details>
 
