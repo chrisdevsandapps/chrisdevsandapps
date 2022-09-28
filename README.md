@@ -121,3 +121,22 @@ github flavored markdown block language list: [&#8859;](https://www.rubycoloredg
 
 template for directory tree: [&#8859;](https://gist.github.com/chrisdevsandapps/5be9b39d51c6afc6005ee1985d13262b)
 
+
+
+
+
+
+
+
+
+<!-- ############################################################################################### -->
+<!-- ############################################################################################### -->
+<details>
+<summary>references</summary>
+
+[simplified.guide](https://www.simplified.guide/)
+
+</details>
+
+
+
