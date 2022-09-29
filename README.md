@@ -10,6 +10,8 @@
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisdevsandapps&theme=dark) -->
 
+### 111
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisdevsandapps&theme=merko&count_private=true&show_icons=true)
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisdevsandapps&theme=gruvbox) -->
@@ -33,12 +35,15 @@
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats) -->
 
+### 222
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisdevsandapps&langs_count=10&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- ############################################################################################### -->
 
 
+### 333
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisdevsandapps&langs_count=8&layout=compact&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -51,7 +56,10 @@
 
 
 
-
+<!-- ############################################################################################### -->
+<!-- ############################################################################################### -->
+<details>
+<summary>references</summary>
 
 
 <br>
@@ -66,6 +74,7 @@ list to tags on my projects: [&#8859;&#8859;&#8859;](https://github.com/chrisdev
 background working musics: [&#8859;](https://gist.github.com/chrisdevsandapps/e75238da6604c466ce5f6a6f42eb387f)
 
 
+</details>
 
 
 <br>
@@ -78,7 +87,10 @@ background working musics: [&#8859;](https://gist.github.com/chrisdevsandapps/e7
 
 <!-- ############################################################################################### -->
 <!-- ############################################################################################### -->
-
+<!-- ############################################################################################### -->
+<!-- ############################################################################################### -->
+<details>
+<summary>references</summary>
 
 [neovim settings for macos](https://github.com/chrisdevsandapps/neovim-init-file-on-macos)
 
@@ -92,6 +104,8 @@ background working musics: [&#8859;](https://gist.github.com/chrisdevsandapps/e7
 [coding-interview](https://github.com/jwasham/coding-interview-university)
 
 
+</details>
+
 <!-- ############################################################################################### -->
 <!-- ############################################################################################### -->
 
@@ -100,6 +114,11 @@ background working musics: [&#8859;](https://gist.github.com/chrisdevsandapps/e7
 
 ---
 
+
+<!-- ############################################################################################### -->
+<!-- ############################################################################################### -->
+<details>
+<summary>references</summary>
 
 <br>
 
@@ -121,7 +140,7 @@ github flavored markdown block language list: [&#8859;](https://www.rubycoloredg
 
 template for directory tree: [&#8859;](https://gist.github.com/chrisdevsandapps/5be9b39d51c6afc6005ee1985d13262b)
 
-
+</details>
 
 
 
@@ -142,6 +161,10 @@ template for directory tree: [&#8859;](https://gist.github.com/chrisdevsandapps/
   
 [nietzche-ipzum](http://nietzsche-ipsum.com/)
   
+<br>
+
+[linuxize](https://linuxize.com/)
+
 <br>
 
 </details>
