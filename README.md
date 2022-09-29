@@ -10,6 +10,9 @@
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisdevsandapps&theme=dark) -->
 
+<!-- ############################################################################################### -->
+<!-- ############################################################################################### -->
+
 ### 111
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisdevsandapps&theme=merko&count_private=true&show_icons=true)
@@ -35,13 +38,18 @@
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<!-- ############################################################################################### -->
+<!-- ############################################################################################### -->
+
 ### 222
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisdevsandapps&langs_count=10&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!-- ############################################################################################### -->
 
+
+<!-- ############################################################################################### -->
+<!-- ############################################################################################### -->
 
 ### 333
 
@@ -53,11 +61,11 @@
 <!-- ############################################################################################### -->
 
 
-<br>
+
 
 ---
 
-<br>
+
 
 
 <!-- ############################################################################################### -->
@@ -69,10 +77,7 @@
 <br>
 
 
-
 list to tags on my projects: [&#8859;&#8859;&#8859;](https://github.com/chrisdevsandapps/my-github-repository-tags)
-
-
 
 
 background working musics: [&#8859;](https://gist.github.com/chrisdevsandapps/e75238da6604c466ce5f6a6f42eb387f)
@@ -83,19 +88,17 @@ background working musics: [&#8859;](https://gist.github.com/chrisdevsandapps/e7
 
 
 
-<br>
+
 
 
 ---
 
 
-<br>
 
 
 
 
-<!-- ############################################################################################### -->
-<!-- ############################################################################################### -->
+
 <!-- ############################################################################################### -->
 <!-- ############################################################################################### -->
 <details>
@@ -115,17 +118,14 @@ background working musics: [&#8859;](https://gist.github.com/chrisdevsandapps/e7
 
 </details>
 
-<!-- ############################################################################################### -->
-<!-- ############################################################################################### -->
 
 
 
 
-<br>
 
 ---
 
-<br>
+
 
 
 
@@ -137,33 +137,28 @@ background working musics: [&#8859;](https://gist.github.com/chrisdevsandapps/e7
 
 <br>
 
-
-
 [placeholder images](https://gist.github.com/chrisdevsandapps/e0482515c90d7b1bb1bc0d790bd3323f)
-
-
 
 
 <br>
 
 
-
-
 github flavored markdown block language list: [&#8859;](https://www.rubycoloredglasses.com/2013/04/languages-supported-by-github-flavored-markdown/) [&#8859;](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)
 
-
+<br>
 
 template for directory tree: [&#8859;](https://gist.github.com/chrisdevsandapps/5be9b39d51c6afc6005ee1985d13262b)
+
+<br>
 
 </details>
 
 
 
-<br>
+
 
 ---
 
-<br>
 
 
 
@@ -186,14 +181,18 @@ template for directory tree: [&#8859;](https://gist.github.com/chrisdevsandapps/
 
 <br>
 
+[linuxHandbook](https://linuxhandbook.com/)
+
+<br>
+
 </details>
 
 
-<br>
+
 
 ---
 
-<br>
+
 
 
 
