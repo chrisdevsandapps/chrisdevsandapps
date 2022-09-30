@@ -83,6 +83,9 @@ list to tags on my projects: [&#8859;&#8859;&#8859;](https://github.com/chrisdev
 background working musics: [&#8859;](https://gist.github.com/chrisdevsandapps/e75238da6604c466ce5f6a6f42eb387f)
 
 
+[javascript.info](https://javascript.info/)
+
+
 </details>
 
 
