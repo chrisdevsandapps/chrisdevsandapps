@@ -85,6 +85,8 @@ background working musics: [&#8859;](https://gist.github.com/chrisdevsandapps/e7
 
 [javascript.info](https://javascript.info/)
 
+[javascripttutorial.net](https://www.javascripttutorial.net/)
+
 
 </details>
 
