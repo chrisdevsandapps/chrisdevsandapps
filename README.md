@@ -155,6 +155,10 @@ github flavored markdown block language list: [&#8859;](https://www.rubycoloredg
 template for directory tree: [&#8859;](https://gist.github.com/chrisdevsandapps/5be9b39d51c6afc6005ee1985d13262b)
 
 <br>
+  
+  [indexDotHtml Template](https://gist.github.com/chrisdevsandapps/62f06902bafe4e34681a9a36f12e41d7)
+  
+ <br>
 
 </details>
 
