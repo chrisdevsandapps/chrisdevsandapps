@@ -84,31 +84,21 @@ background working musics: [&#8859;](https://gist.github.com/chrisdevsandapps/e7
 
 
 [javascript.info](https://javascript.info/)
+  
 
 [javascripttutorial.net](https://www.javascripttutorial.net/)
-
-
-</details>
-
-
-
-
-
-
-
----
-
-
-
-
-
-
-
-<!-- ############################################################################################### -->
-<!-- ############################################################################################### -->
-<details>
-<summary>references</summary>
-
+  
+  
+ <br>
+ <br>
+ <br>  
+  
+  
+  
+  
+  
+  
+  
 [neovim settings for macos](https://github.com/chrisdevsandapps/neovim-init-file-on-macos)
 
 
@@ -119,82 +109,87 @@ background working musics: [&#8859;](https://gist.github.com/chrisdevsandapps/e7
 
 
 [coding-interview](https://github.com/jwasham/coding-interview-university)
-
-
-</details>
-
-
-
-
-
-
----
-
-
-
-
-
-
-<!-- ############################################################################################### -->
-<!-- ############################################################################################### -->
-<details>
-<summary>references</summary>
-
-<br>
+  
+  
+ <br>
+ <br>
+ <br>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ <br>
 
 [placeholder images](https://gist.github.com/chrisdevsandapps/e0482515c90d7b1bb1bc0d790bd3323f)
 
 
-<br>
 
 
 github flavored markdown block language list: [&#8859;](https://www.rubycoloredglasses.com/2013/04/languages-supported-by-github-flavored-markdown/) [&#8859;](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)
 
-<br>
+
 
 template for directory tree: [&#8859;](https://gist.github.com/chrisdevsandapps/5be9b39d51c6afc6005ee1985d13262b)
 
-<br>
+
   
-  [indexDotHtml Template](https://gist.github.com/chrisdevsandapps/62f06902bafe4e34681a9a36f12e41d7)
+[indexDotHtml Template](https://gist.github.com/chrisdevsandapps/62f06902bafe4e34681a9a36f12e41d7)
+  
+  
   
  <br>
-
-</details>
-
-
-
-
-
----
-
-
-
-
-<!-- ############################################################################################### -->
-<!-- ############################################################################################### -->
-<details>
-<summary>references</summary>
-
-<br>
+ <br>
+ <br>
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <br>
 
 [simplified.guide](https://www.simplified.guide/)
   
-<br>
+
   
 [nietzche-ipzum](http://nietzsche-ipsum.com/)
   
-<br>
+
 
 [linuxize](https://linuxize.com/)
 
-<br>
+
 
 [linuxHandbook](https://linuxhandbook.com/)
 
-<br>
+  
+ <br>
+ <br>
+ <br>
+  
+  
+  
+  
+  
+  
+
+
 
 </details>
+
+
 
 
 
