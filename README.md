@@ -80,7 +80,7 @@ my tagnames for my projects: [&#8859;&#8859;&#8859;](https://github.com/chrisdev
 <br>
 
 
-
+[mac setup guide](https://sourabhbajaj.com/mac-setup/)
 
 
 background working musics: [&#8859;](https://gist.github.com/chrisdevsandapps/e75238da6604c466ce5f6a6f42eb387f)
