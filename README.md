@@ -26,7 +26,7 @@ background working musics: [&#8859;](https://gist.github.com/chrisdevsandapps/e7
   
   
   
-  
+[neovim resources](https://gist.github.com/chrisdevsandapps/a4bf1f077b6301df085515fa7c729b3b)  
   
   
 [neovim settings for macos](https://github.com/chrisdevsandapps/neovim-init-file-on-macos)
