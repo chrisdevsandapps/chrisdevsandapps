@@ -21,7 +21,7 @@ background working musics: [&#8859;](https://gist.github.com/chrisdevsandapps/e7
  <br>  
   
   
-  
+[my neovim notes](https://gist.github.com/chrisdevsandapps/258a456fb88af1f8deef84d246354a40)  
   
 [neovim resources](https://gist.github.com/chrisdevsandapps/a4bf1f077b6301df085515fa7c729b3b)  
   
