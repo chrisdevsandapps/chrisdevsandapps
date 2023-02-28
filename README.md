@@ -23,13 +23,20 @@ background working musics: [&#8859;](https://gist.github.com/chrisdevsandapps/e7
   
 [my neovim notes](https://gist.github.com/chrisdevsandapps/258a456fb88af1f8deef84d246354a40)  
   
+  
+[my neovim commands](https://gist.github.com/chrisdevsandapps/9431db90e3b4586deae69fac7b2b52dc)  
+  
+  
 [neovim resources](https://gist.github.com/chrisdevsandapps/a4bf1f077b6301df085515fa7c729b3b)  
   
   
-[neovim settings for macos](https://github.com/chrisdevsandapps/neovim-init-file-on-macos)
+[neovim settings for macos &#8859;&#8859;&#8859;](https://github.com/chrisdevsandapps/neovim-init-file-on-macos)
 
 
-[tmux](https://gist.github.com/chrisdevsandapps/0ccf87b09a66e15a428b1e4e3763388c)
+[my tmux notes](https://gist.github.com/chrisdevsandapps/0ccf87b09a66e15a428b1e4e3763388c)
+  
+  
+[my iTerm2 notes](https://gist.github.com/chrisdevsandapps/e8715c2fddbe003ba49aaa64724b7434)
 
 
 
