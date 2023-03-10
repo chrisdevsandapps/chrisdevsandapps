@@ -47,8 +47,9 @@ background working musics: [&#8859;](https://gist.github.com/chrisdevsandapps/e7
   
 [neovim resources](https://gist.github.com/chrisdevsandapps/a4bf1f077b6301df085515fa7c729b3b)  
   
+[neovim init.lua setup &#8859;&#8859;&#8859;](https://github.com/chrisdevsandapps/neovim-lua-setup-2023March)
   
-[neovim settings for macos &#8859;&#8859;&#8859;](https://github.com/chrisdevsandapps/neovim-init-file-on-macos)
+[neovim init.vim setup for macos &#8859;&#8859;&#8859;](https://github.com/chrisdevsandapps/neovim-init-file-on-macos)
 
 
 [my tmux notes](https://gist.github.com/chrisdevsandapps/0ccf87b09a66e15a428b1e4e3763388c)
