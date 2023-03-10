@@ -36,7 +36,7 @@ background working musics: [&#8859;](https://gist.github.com/chrisdevsandapps/e7
  <br>
  <br>  
   
-[resources links](https://github.com/chrisdevsandapps/youtube-links-2023March)
+[resources links &#8859;&#8859;&#8859;](https://github.com/chrisdevsandapps/youtube-links-2023March)
   
   
 [my neovim notes](https://gist.github.com/chrisdevsandapps/258a456fb88af1f8deef84d246354a40)  
@@ -57,7 +57,7 @@ background working musics: [&#8859;](https://gist.github.com/chrisdevsandapps/e7
 [my iTerm2 notes](https://gist.github.com/chrisdevsandapps/e8715c2fddbe003ba49aaa64724b7434)
   
   
-[vscode settings and notes](https://github.com/chrisdevsandapps/vscode-settings-backup)
+[vscode settings and notes &#8859;&#8859;&#8859;](https://github.com/chrisdevsandapps/vscode-settings-backup)
 
 
 
