@@ -168,9 +168,11 @@ template for directory tree: [&#8859;](https://gist.github.com/chrisdevsandapps/
 <!-- ############################################################################################### -->
 <!-- ############################################################################################### -->
 
-### my github stats
+<!-- ### my github stats -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisdevsandapps&theme=merko&count_private=true&show_icons=true)
+
+<!-- eto yung dark window na may cirled progress bar: -->
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisdevsandapps&theme=merko&count_private=true&show_icons=true) -->
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisdevsandapps&theme=gruvbox) -->
 
